@@ -1,0 +1,2 @@
+allowed_hwids.txt
+TEST-HWID-1234
